@@ -1,3 +1,8 @@
+## 📜 Certificate Preview
+<p align="center">
+  <img src="certificate of general aptitude.jpg" width="700"/>
+</p>
+
 📌 Overview
 
 This repository contains my certificate of completion for the GMAT Focus Quantitative | Master Math Course (2026 Updated) from Udemy.
@@ -39,7 +44,3 @@ The certificate of completion is included in this repository as proof of my lear
 
 This course plays an important role in strengthening my general aptitude skills, which are essential for academic growth, competitive exams, and technical interviews.
 
-## 📜 Certificate Preview
-<p align="center">
-  <img src="certificate of general aptitude.jpg" width="700"/>
-</p>
